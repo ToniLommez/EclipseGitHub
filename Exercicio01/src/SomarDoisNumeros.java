@@ -8,7 +8,7 @@ class SomarDoisNumeros {
 		double num1, num2, soma;
 		
 		// Leituras
-		System.out.println("Digite um numero:");
+		System.out.println("Digite um numero: ");
 		num1 = sc.nextDouble();
 		System.out.println("Digite outro numero");
 		num2 = sc.nextDouble();
